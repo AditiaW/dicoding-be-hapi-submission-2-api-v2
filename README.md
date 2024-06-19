@@ -1,4 +1,4 @@
-## Cara Clone dan Jalankan Proyek "dicoding-be-hapi-submission-2-api-v1"
+## Cara Clone dan Jalankan Proyek "dicoding-be-hapi-submission-2-api-v2"
 
 ### 1. Clone Repository
 
